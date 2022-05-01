@@ -28,6 +28,9 @@ The analysis of the election show that :
   - Candidate (1, 2, or 3), who received "x%" of the votes and "y" number of votes.
 
 ## Challenge Overview
+
+
+## Election-Audit Results
 > Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 * How many votes were cast in this congressional election?
