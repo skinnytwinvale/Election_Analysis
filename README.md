@@ -61,4 +61,6 @@ The analysis of the election show that :
 > - In addition, **Diana DeGette** has the total percentage votes of `73.8%`  
 > - **Diana DeGette** is the Winner!
 
-## Challenge Summary
+## Election Audit Summary
+
+This code was developed to run an analysis efficiently on big scales of data. It is able to efficientley find vote counts and the percentages of the votes from each candidate and county. The script can easily tell us how much votes each candidate won in each county. The script is great to use for future data, it can be applied to any electoral tabular dataset simply by changing the source of the data on the code itself. In order to use this code for future data all you would need to change is the candidate field which is easily modifiable and the county can be switched to modify the target regions.
